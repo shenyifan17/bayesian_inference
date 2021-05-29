@@ -4,6 +4,7 @@ This repo contains some interesting projects from UCL MSc CSML/ML Unsupervised L
 Projects including:
  - Markov Chain Monte Carlo (MCMC_decrypting)
  - Vinella Expectation Maximisation 
+ - Linear Gaussian State Space Model (LGSSM)
  - Mean Field (Variational E-step) and Expectation Propagation Learning 
  - Latent Dirichlet Allocation for Topic classification 
  - Gaussian Process Regression 
