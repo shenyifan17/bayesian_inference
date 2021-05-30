@@ -8,5 +8,4 @@ Projects including:
  - Latent Dirichlet Allocation for Topic classification 
  - Gaussian Process Regression 
  - Markov Chain Monte Carlo (MCMC_decrypting)
- - Reproducing Kernel Hilbert Space
  
